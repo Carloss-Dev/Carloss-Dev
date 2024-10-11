@@ -2,7 +2,7 @@
 
 Meu nome é Carlos Eduardo. Sou um desenvolvedor Front-end e um eterno estudante. Sou apaixonado por jogos e musicas calmas.
 
-💬 Atualmente sou monitor de uma turma de full stack.
+💬 Atualmente sou monitor de uma turma de full stack e sou desenvolvedor front end em dois projetos.
 
 ---
 
