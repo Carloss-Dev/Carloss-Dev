@@ -1,8 +1,9 @@
+
+# Aoba meu nome é Carlos!
+
 <img src="https://github.com/user-attachments/assets/be41bc24-8b6f-4f25-af6c-60b3fc8471e7" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right" >
 
-<h3>Aoba meu nome é Carlos!</h3>
-
-Sou umm Desenvolvedor Front End e um eterno estudante; Apaixonado por jogos e músicas calmas
+Sou um Desenvolvedor Front End e um eterno estudante; Apaixonado por jogos e músicas calmas
 
 💬 Atualmente sou monitor de uma turma de full stack onde auxílio com dúvidas e dou aulas sobre o desenvolvimento Full Stack, Além de desenvolvedor Front end em dois projetos como freelancer e palestrante em eventos de comunidades.
 
@@ -16,13 +17,9 @@ Sou umm Desenvolvedor Front End e um eterno estudante; Apaixonado por jogos e m�
   </a>
 </p>
 
-<br>
-
 ---
-<br>
-
-
 ## Principais Skills
+
 ![HTML5](https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![Css3](https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![Styled Components](https://camo.githubusercontent.com/77e61120153c26aba082030bde93c2b0f7794ea23260a1c4d2ede33c59a1fd40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)
