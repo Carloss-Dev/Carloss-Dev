@@ -11,7 +11,7 @@ Sou umm Desenvolvedor Front End e um eterno estudante; Apaixonado por jogos e m√
    
   <a href="mailto:carlos2019cavalcante@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/carlos-lima-26b330317" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-lima-26b330317" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   </a>
 </p>
