@@ -3,9 +3,9 @@
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b94e2f13-a4d0-4a60-bd6d-3280fc81da10/d9ew9qo-766f730f-2624-4a4f-aa1e-64be8bdf2bce.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I5NGUyZjEzLWE0ZDAtNGE2MC1iZDZkLTMyODBmYzgxZGExMFwvZDlldzlxby03NjZmNzMwZi0yNjI0LTRhNGYtYWExZS02NGJlOGJkZjJiY2UuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BU71Uv7_5xYm5rwOAZZzx0pABhohv1EHl02UecOZlII" min-width="50px" max-width="200px" width="200px" align="right" >
 
-Sou um Desenvolvedor Front End e um eterno estudante; Apaixonado por jogos e músicas calmas
+Sou um Desenvolvedor Full Stack e um eterno estudante; Apaixonado por jogos e músicas calmas
 
-💬 Atualmente sou monitor de uma turma de full stack onde auxílio com dúvidas e dou aulas sobre o desenvolvimento Full Stack, Além de desenvolvedor Front end em dois projetos como freelancer e palestrante em eventos de comunidades.
+💬 Atualmente sou estgiário em desenvolvimento no sistema FIEC, Além de desenvolvedor Front end em dois projetos como freelancer e palestrante em eventos de comunidades.
 
  <p align="center">
    <p> <strong>Onde me encontrar: </strong> </p>
