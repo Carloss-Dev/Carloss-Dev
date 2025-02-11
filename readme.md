@@ -5,7 +5,7 @@
 
 Sou um Desenvolvedor Full Stack e um eterno estudante; Apaixonado por jogos e músicas calmas
 
-💬 Atualmente sou estgiário em desenvolvimento no sistema FIEC, Além de desenvolvedor Front end em dois projetos como freelancer e palestrante em eventos de comunidades.
+💬 Atualmente sou estagiário em desenvolvimento no sistema FIEC, Além de desenvolvedor Front end em dois projetos como freelancer e palestrante em eventos de comunidades.
 
  <p align="center">
    <p> <strong>Onde me encontrar: </strong> </p>
